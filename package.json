@@ -1,6 +1,6 @@
 {
   "name": "firestore-to-excel",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Firestore-to-Excel",
   "main": "index.js",
   "scripts": {
