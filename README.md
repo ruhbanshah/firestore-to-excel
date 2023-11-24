@@ -18,25 +18,10 @@ npm install firestore-to-excel
 
 ## Usage
 
-### Setup
+To use this package, you need a Firebase Service Account JSON file. Ensure this file is accessible to your script.
 
-- Clone the repository to your local machine:
-```
-git clone [repository-link]
-```
-
-- Navigate to the cloned directory:
-```
-cd firestore-to-excel
-```
-
-- Install dependencies:
-```
-npm install
-```
-
-- Running the Script
-Execute the script with Node.js, providing the path to your Firebase Service Account JSON file:
+Basic Command
+Run the script with the following command, replacing path-to-your-firebase-service-account.json with the path to your Firebase Service Account JSON file.
 
 ```
 firestore-to-excel path-to-your-firebase-service-account.json
