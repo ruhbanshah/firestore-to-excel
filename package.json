@@ -1,0 +1,20 @@
+{
+  "name": "firestore-to-excel",
+  "version": "1.0.5",
+  "description": "Firestore-to-Excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ruhban Shah",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "firebase-admin": "^11.11.0",
+    "readline": "^1.3.0"
+  },
+  "bin": {
+    "firestore-to-excel": "index.js"
+  }
+}
